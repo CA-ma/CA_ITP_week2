@@ -3,3 +3,5 @@
 Details
 -------
 
+1. This repository contains a number of different practice scripts in Ruby.
+2. 
