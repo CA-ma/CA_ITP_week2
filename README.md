@@ -4,4 +4,4 @@ Details
 -------
 
 1. This repository contains a number of different practice scripts in Ruby.
-2. Scripts of note are the my_group.rb Challenge, rbExcHash.rb hash manipulation problem, and the 
+2. Scripts of note are the my_group.rb Challenge, rbExcHash.rb hash manipulation problem, and the method_test.rb exercise.
